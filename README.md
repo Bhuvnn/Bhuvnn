@@ -1,16 +1,16 @@
-## Hi there 👋
+####👋 Hi, I'm Bhubandeep Singh!
 
-<!--
-**Bhuvnn/Bhuvnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner with a keen interest in Machine Learning, Artificial Intelligence, Python Programming, and Web Development. I'm constantly expanding my skills by working on projects that allow me to blend creativity with technology. My goal is to build impactful solutions through coding and innovation.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Skills
+Languages: Python, HTML, CSS, JavaScript
+Machine Learning & AI: Data analysis, model building, recommendation systems
+Web Development: Frontend and backend experience for dynamic web applications
+📚 Currently Learning
+Advanced ML algorithms
+Full-stack web development
+Deepening knowledge in AI and data science tools
+📫 Connect with Me
+LinkedIn
+Twitter
+Email: your-email@example.com
