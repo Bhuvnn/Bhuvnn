@@ -5,7 +5,9 @@ I'm a passionate learner with a keen interest in Machine Learning, Artificial In
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhuvnn_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhubandeep-singh-o07?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByU54yWPfQ6CKyZVnsx2rew%3D%3D) [![Email](https://img.shields.io/badge/Email-bhuvnnn%40gmail.com-red?style=for-the-badge)](mailto:bhuvnnn@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-bhuvnn__007-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhuvnn_007/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhubandeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhubandeep-singh-o07)
+ [![Email](https://img.shields.io/badge/Email-bhuvnnn%40gmail.com-red?style=for-the-badge)](mailto:bhuvnnn@gmail.com)
 
 
 ## 💻 Languages and Tools:
