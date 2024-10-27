@@ -2,9 +2,6 @@
 
 I'm a passionate learner with a keen interest in Machine Learning, Artificial Intelligence, Python Programming, and Web Development. I'm constantly expanding my skills by working on projects that allow me to blend creativity with technology. My goal is to build impactful solutions through coding and innovation.
 
-![Black Hole]([https://media.giphy.com/media/3o6Mbnm66nZPGo6bC0/giphy.gif](https://gifs.alphacoders.com/gifs/view/215584))
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhuvnn_007/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhubandeep-singh-o07)
