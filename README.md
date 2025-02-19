@@ -1,9 +1,9 @@
 # 👋 Hello There, The name is Bhubandeep Singh!
 
 I'm a passionate learner with a keen interest in Machine Learning, Artificial Intelligence, Python Programming, and Web Development. I'm constantly expanding my skills by working on projects that allow me to blend creativity with technology. My goal is to build impactful solutions through coding and innovation.
-<p align="center">
+<div align="center">
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ1MWY0cTNhMm92anNtZWw3dnQ1azBpYXY3dWNqbnR1YmVmb3JhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixmzSYVKYrHgc/giphy.gif)
-</p>
+</div>
 
 
 ## 🌐 Socials:
