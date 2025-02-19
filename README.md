@@ -2,6 +2,9 @@
 
 I'm a passionate learner with a keen interest in Machine Learning, Artificial Intelligence, Python Programming, and Web Development. I'm constantly expanding my skills by working on projects that allow me to blend creativity with technology. My goal is to build impactful solutions through coding and innovation.
 
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJieDc1aWJqZnZyemV0ZjBoeTB1N2U1OXU0Y2lmc3N0MjI3dDBxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDGo9jYZzVt3DExhi/giphy.gif)
+
+
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-98lq.onrender.com/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhuvnn_09/)
