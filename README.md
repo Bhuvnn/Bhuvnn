@@ -20,9 +20,9 @@ I'm a passionate learner with a keen interest in Machine Learning, Artificial In
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhuvnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=800080&text_color=FFFFFF)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=800080&text_color=FFFFFF)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=25413151&text_color=FFFFFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bhuvnn&background=000000&ring=800080&fire=800080&currStreakLabel=800080)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhuvnn&background=000000&ring=25413151&fire=25413151&currStreakLabel=800080)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhuvnn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
