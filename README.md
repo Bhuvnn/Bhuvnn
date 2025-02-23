@@ -25,9 +25,9 @@ I'm a passionate learner with a keen interest in Machine Learning, Artificial In
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bhuvnn&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhuvnn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bhuvnn&theme=radical&bg_color=00000000&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhuvnn&icon=9&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
