@@ -42,5 +42,3 @@ I'm a passionate learner with a keen interest in Machine Learning, Artificial In
 
 ---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->this is my readme file from github, improve it add nwe tech like langchain langgraph docker, YOLO, and also make it look better 
